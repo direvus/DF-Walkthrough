@@ -86,7 +86,7 @@ Style
 -----
 Use clear, direct, and simple language.  Avoid jargon or the passive voice.
 I find the `hemmingway editor <http://www.hemingwayapp.com>`_ useful;
-I often ignore but always consider it's suggestions.
+I often ignore but always consider its suggestions.
 
 Keep all lines to 80 characters or less.  Sphinx will automatically join
 everything between blank lines into one paragraph, and short lines

@@ -7,7 +7,7 @@ It's a trap!
 
 Traps form the majority of many people’s defences, so it’s best we get
 sorted and make some. First up, we will need a lot of mechanisms, so go
-find that mechanic’s workshop and fill it’s job queue with mechanisms.
+find that mechanic’s workshop and fill its job queue with mechanisms.
 They’ll end up in a finished goods pile when done.
 
 Next, go to the Carpenter’s workshop and add a ton of cages (:kbd:`j` is the
